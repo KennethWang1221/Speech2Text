@@ -1,0 +1,4 @@
+./res/whisper_test_clean_opts/opt_txt/1089-134686-0000.txt
+./res/whisper_test_clean_opts/opt_txt/1089-134686-0001.txt
+./res/whisper_test_clean_opts/opt_txt/1089-134691-0000.txt
+./res/whisper_test_clean_opts/opt_txt/1089-134691-0001.txt
